@@ -20,3 +20,5 @@ cat config
 ls
 git status
 git remote add origin
+git commit 
+mkdir
