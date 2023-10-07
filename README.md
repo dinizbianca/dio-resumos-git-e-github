@@ -19,3 +19,4 @@ git clone
 cat config
 ls
 git status
+git remote add origin
